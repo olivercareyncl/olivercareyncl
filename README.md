@@ -15,8 +15,6 @@ With a strong foundation in healthcare data analytics and over a year of experie
 
 ### Professional Highlights 🌟
 - **Graduate Project Support Officer** - NHS England, Insights & Analytics Team (2024 - Present)
-- Managed COVID vaccination reporting and population health dashboards.
-- Developed insights for critical healthcare metrics using PowerBI, SQL, and R.
 
 ### Tech Toolbox 🛠️
 - **Languages:** Python, R, SQL
