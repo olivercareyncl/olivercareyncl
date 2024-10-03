@@ -5,9 +5,9 @@
 
 📧 Email: olivercareyncl@gmail.com
 
-🔗 [LinkedIn](https://linkedin.com/olivercareyncl)
+🔗 LinkedIn: [olivercareyncl](https://linkedin.com/olivercareyncl)
 
-👨‍💻 [GitHub](https://github.com/olivercareyncl)
+👨‍💻 GitHub: [olivercareyncl](https://github.com/olivercareyncl)
 
 
 ### About Me 🌐
