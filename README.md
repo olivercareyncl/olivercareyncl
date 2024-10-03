@@ -1,9 +1,14 @@
 ## 👋 Hello, I'm [Your Name]!
 🚀 Data Analyst & Aspiring Data Scientist | Passionate about turning data into insights
+
 📍 United Kingdom
+
 📧 Email: [olivercareyncl@gmail.com]
+
 🔗 LinkedIn: [Your LinkedIn Username]
+
 👨‍💻 GitHub: [(https://github.com/olivercareyncl)]
+
 
 ### About Me 🌐
 With a strong foundation in healthcare data analytics and over a year of experience, I'm building my path toward a career in data science and machine learning. I'm excited about leveraging data to solve real-world problems and drive business impact across industries.
