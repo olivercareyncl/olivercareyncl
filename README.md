@@ -3,11 +3,11 @@
 
 📍 United Kingdom
 
-📧 Email: [olivercareyncl@gmail.com]
+📧 Email: olivercareyncl@gmail.com
 
-🔗 LinkedIn: [Your LinkedIn Username]
+🔗 [LinkedIn](https://linkedin.com/olivercareyncl)
 
-👨‍💻 GitHub: [(https://github.com/olivercareyncl)]
+👨‍💻 [GitHub)](https://github.com/olivercareyncl)
 
 
 ### About Me 🌐
