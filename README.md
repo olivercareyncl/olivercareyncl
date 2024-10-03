@@ -23,7 +23,7 @@ With a strong foundation in healthcare data analytics and over a year of experie
 - **Specialties:** Data Analysis, Machine Learning, Dashboard Development
 
 ### Education 🎓
-- **Professional Certificate in Data Analytics** - Imperial College London (2024)
+- **Professional Certificate in Data Analytics (90%)** - Imperial College London (2024)
 - **BSc in Mathematics & Statistics (First Class)** - Newcastle University
 
 ### Certifications 📜
