@@ -7,7 +7,7 @@
 
 🔗 [LinkedIn](https://linkedin.com/olivercareyncl)
 
-👨‍💻 [GitHub)](https://github.com/olivercareyncl)
+👨‍💻 [GitHub](https://github.com/olivercareyncl)
 
 
 ### About Me 🌐
