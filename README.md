@@ -1,16 +1,31 @@
-## Hi there 👋
+## 👋 Hello, I'm [Your Name]!
+🚀 Data Analyst & Aspiring Data Scientist | Passionate about turning data into insights
+📍 United Kingdom
+📧 Email: [olivercareyncl@gmail.com]
+🔗 LinkedIn: [Your LinkedIn Username]
+👨‍💻 GitHub: [(https://github.com/olivercareyncl)]
 
-<!--
-**olivercareyncl/olivercareyncl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me 🌐
+With a strong foundation in healthcare data analytics and over a year of experience, I'm building my path toward a career in data science and machine learning. I'm excited about leveraging data to solve real-world problems and drive business impact across industries.
 
-Here are some ideas to get you started:
+### Professional Highlights 🌟
+- **Graduate Project Support Officer** - NHS England, Insights & Analytics Team (2024 - Present)
+- Managed COVID vaccination reporting and population health dashboards.
+- Developed insights for critical healthcare metrics using PowerBI, SQL, and R.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Toolbox 🛠️
+- **Languages:** Python, R, SQL
+- **Frameworks & Libraries:** Scikit-learn, Matplotlib, Pandas
+- **Tools:** PowerBI, Tableau, Excel, Git, Jupyter Notebooks
+- **Specialties:** Data Analysis, Machine Learning, Dashboard Development
+
+### Education 🎓
+- **Professional Certificate in Data Analytics** - Imperial College London (2024)
+- **BSc in Mathematics & Statistics (First Class)** - Newcastle University
+
+### Certifications 📜
+- **PRINCE2 Project Management**
+- **Google Data Analytics Professional Certificate**
+- ...
+
+🔗 I'm always open to discussions about data science, AI, or exciting opportunities! Feel free to reach out for collaborations or just to chat!
