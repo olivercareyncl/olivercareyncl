@@ -14,7 +14,7 @@
 With a strong foundation in healthcare data analytics and over a year of experience, I'm building my path toward a career in data science and machine learning. I'm excited about leveraging data to solve real-world problems and drive business impact across industries.
 
 ### Professional Highlights 🌟
-- **Graduate Project Support Officer** - NHS England, Insights & Analytics Team (2024 - Present)
+- **Graduate Project Support Officer** - NHS England, Insights & Analytics Team (July 2023 - Present)
 
 ### Tech Toolbox 🛠️
 - **Languages:** Python, R, SQL
@@ -24,7 +24,7 @@ With a strong foundation in healthcare data analytics and over a year of experie
 
 ### Education 🎓
 - **Professional Certificate in Data Analytics (90%)** - Imperial College London (2024)
-- **BSc in Mathematics & Statistics (First Class)** - Newcastle University
+- **BSc in Mathematics & Statistics (First Class)** - Newcastle University 
 
 ### Certifications 📜
 - **PRINCE2 Project Management**
