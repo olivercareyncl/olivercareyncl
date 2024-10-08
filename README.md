@@ -11,7 +11,7 @@
 
 
 ### About Me 🌐
-With a strong foundation in healthcare data analytics and over a year of experience, I'm building my path toward a career in data science and machine learning. I'm excited about leveraging data to solve real-world problems and drive business impact across industries.
+With a solid foundation in data analytics and over a year of experience, I am actively shaping my career in data science and machine learning. I am passionate about harnessing the power of data to tackle complex real-world challenges and drive meaningful business impact across diverse industries.
 
 ### Professional Highlights 🌟
 - **Graduate Project Support Officer** - NHS England, Insights & Analytics Team (July 2023 - Present)
