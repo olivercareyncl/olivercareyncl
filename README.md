@@ -27,8 +27,15 @@ With a solid foundation in data analytics and over a year of experience, I am ac
 - **BSc in Mathematics & Statistics (First Class)** - Newcastle University 
 
 ### Certifications 📜
-- **PRINCE2 Project Management**
-- **Google Data Analytics Professional Certificate**
-- ...
+- **PRINCE2 Foundation**, QA - December 2023
+- **15 Days of Power BI - Complete Microsoft Power BI Bootcamp**, Udemy - November 2023
+- **Population Health Management (PHM) for All**, Population Health Management (PHM) with Midlands Decision Support Network - September 2023 — October 2023
+- **Continuous Improvement (Green Flag) Training**, NECS - July 2023
+- **Understanding Agile | Complete Guide for Beginners**, Udemy - July 2023
+- **Deeply Practical Project Management**, Udemy - July 2023
+- **Management & Leadership - Modern Leaders Training**, Udemy - June 2023
+- **Google Data Analytics Professional**, Grow with Google - January 2023 — June 2023
+- **SQL - MySQL for Data Analytics and Business Intelligence**, Careers365 - April 2021
+
 
 🔗 I'm always open to discussions about data science, AI, or exciting opportunities! Feel free to reach out for collaborations or just to chat!
