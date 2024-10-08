@@ -19,7 +19,7 @@ With a strong foundation in healthcare data analytics and over a year of experie
 ### Tech Toolbox 🛠️
 - **Languages:** Python, R, SQL
 - **Frameworks & Libraries:** Scikit-learn, Matplotlib, Pandas
-- **Tools:** PowerBI, Tableau, Excel, Git, Jupyter Notebooks
+- **Tools:** PowerBI, Tableau, RStudio, Excel, Git, Jupyter Notebooks
 - **Specialties:** Data Analysis, Machine Learning, Dashboard Development
 
 ### Education 🎓
