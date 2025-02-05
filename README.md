@@ -13,7 +13,9 @@
 With a solid foundation in data analytics and over a year of experience, I am actively shaping my career in data science and machine learning. I am passionate about harnessing the power of data to tackle complex real-world challenges and drive meaningful business impact across diverse industries.
 
 ### Professional Highlights 🌟
-- **Graduate Project Support Officer** - NHS England, Insights & Analytics Team (July 2023 - Present)  
+- **Data Scientist** - Health Economics Unit (March 2025 - Present)
+  Applying data science techniques to health economics research and supporting decision-making with predictive models and advanced analytics.
+- **Graduate Project Support Officer** - NHS England, Insights & Analytics Team (July 2023 - Feb 2025)  
   Delivering data-driven insights and developing predictive analytics solutions to enhance decision-making processes in healthcare.
 
 ### Tech Toolbox 🛠️
@@ -21,6 +23,7 @@ With a solid foundation in data analytics and over a year of experience, I am ac
 - **Frameworks & Libraries:** Scikit-learn, TensorFlow, Pandas, NumPy, Matplotlib, Seaborn, Plotly
 - **Tools:** Power BI, Tableau, RStudio, Excel, Git, Jupyter Notebooks
 - **Specialties:** Data Analysis, Machine Learning, Natural Language Processing (NLP), Dashboard Development
+- **Exploring:** Web3, Blockchain, AI Technologies
 
 ### Education 🎓
 - **Professional Certificate in Data Analytics (90%)** - Imperial College London (2024)
