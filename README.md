@@ -10,7 +10,7 @@
 👨‍💻 GitHub: [olivercareyncl](https://github.com/olivercareyncl)
 
 ### About Me 🌐
-With a solid foundation in data analytics and over a year of experience, I am actively shaping my career in data science and machine learning. I am passionate about harnessing the power of data to tackle complex real-world challenges and drive meaningful business impact across diverse industries.
+With a solid foundation in data analytics and over 2 years of experience, I am now a data scientist for the Health Economics Unit, bringing insights and predictive analytics to health economics. I’m actively growing my career in data science and machine learning while exploring the exciting realms of Web3, blockchain, and AI. Passionate about leveraging data to tackle complex challenges and drive innovation.
 
 ### Professional Highlights 🌟
 - **Data Scientist** - Health Economics Unit (March 2025 - Present)
