@@ -1,5 +1,5 @@
 ## 👋 Hello, I'm Oliver Carey!
-🚀 Data Analyst & Aspiring Data Scientist | Passionate about turning data into insights
+🚀 Data Scientist | Passionate about turning data into insights
 
 📍 United Kingdom
 
